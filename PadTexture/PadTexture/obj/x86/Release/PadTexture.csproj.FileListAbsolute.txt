@@ -1,0 +1,14 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\bin\x86\Release\PadTexture.exe.manifest
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\bin\x86\Release\PadTexture.application
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\bin\x86\Release\PadTexture.exe
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\bin\x86\Release\PadTexture.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\PadTexture.TextureInterface.resources
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\PadTexture.TrustInfo.xml
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\PadTexture.exe.manifest
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\PadTexture.application
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\PadTexture.exe
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\PadTexture.pdb

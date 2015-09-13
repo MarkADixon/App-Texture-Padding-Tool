@@ -1,0 +1,9 @@
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\bin\x86\Debug\PadTexture.exe
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\bin\x86\Debug\PadTexture.pdb
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Debug\PadTexture.TextureInterface.resources
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Debug\PadTexture.exe
+c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Debug\PadTexture.pdb
