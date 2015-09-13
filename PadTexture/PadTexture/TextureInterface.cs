@@ -68,6 +68,7 @@ namespace PadTexture
 
         private void button2_Click(object sender, EventArgs e)
         {
+            if (game.inputTexture == null) return;
             Microsoft.Xna.Framework.Color[] newTextureData;
             Microsoft.Xna.Framework.Color[] inputTextureData;
             inputTextureData = new Microsoft.Xna.Framework.Color[game.inputTexture.Width * game.inputTexture.Height];

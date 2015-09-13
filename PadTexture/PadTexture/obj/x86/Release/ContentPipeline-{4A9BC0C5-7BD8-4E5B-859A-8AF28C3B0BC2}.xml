@@ -8,10 +8,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Release</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTextureContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\obj\x86\Release\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\PadTexture\PadTexture\PadTexture\bin\x86\Release\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Bauer\Documents\GitHub\Texture_Pad_App_Csharp\PadTexture\PadTextureContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bauer\Documents\GitHub\Texture_Pad_App_Csharp\PadTexture\PadTexture\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bauer\Documents\GitHub\Texture_Pad_App_Csharp\PadTexture\PadTexture\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bauer\Documents\GitHub\Texture_Pad_App_Csharp\PadTexture\PadTexture\bin\x86\Release\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
