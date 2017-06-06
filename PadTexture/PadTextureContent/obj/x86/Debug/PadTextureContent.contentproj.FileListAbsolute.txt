@@ -1,2 +1,0 @@
-c:\users\bauer\documents\visual studio 2010\Projects\PadTexture\PadTexture\PadTextureContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Bauer\Documents\GitHub\Texture_Pad_App_Csharp\PadTexture\PadTextureContent\obj\x86\Debug\PadTextureContent.contentprojResolveAssemblyReference.cache
